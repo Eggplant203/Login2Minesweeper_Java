@@ -48,13 +48,21 @@ LoginSimulate/
 
 ## Installation
 
-1. Clone the repo:
-
+1. **Download the ZIP file**: Clone the repository or download it as a ZIP file from GitHub.
    ```bash
    git clone https://github.com/Eggplant203/Login2Minesweeper_Java.git
    ```
+   
+3. **Extract the ZIP file**: If you downloaded the ZIP file, extract it to your desired location.
 
-2. Open in a Java IDE, compile, and run.
+4. **Open in VS Code**: 
+   - Launch Visual Studio Code.
+   - Select **File** -> **Open Folder...**.
+   - Choose the parent folder of `LoginSimulate` (e.g., `Login2Minesweeper_Java-master`).
+
+5. **Run the Application**: 
+   - In the sidebar **EXPLORER**, right-click on `LoginApp.java`.
+   - Select **Run Java** to start the application.
 
 ## Usage
 

@@ -11,10 +11,10 @@ A Java-based login system integrated with a **Minesweeper** game, featuring CAPT
   </tr>
   <tr>
     <td style="text-align:center;">
-      <img src="src/Minesweeper/Pic/Login.png" alt="Login Screen" width="400" />
+      <img src="LoginSimulate/src/Minesweeper/Pic/Login.png" alt="Login Screen" width="400" />
     </td>
     <td style="text-align:center;">
-      <img src="src/Minesweeper/Pic/GameGUI.png" alt="Game Screen" width="400" />
+      <img src="LoginSimulate/src/Minesweeper/Pic/GameGUI.png" alt="Game Screen" width="400" />
     </td>
   </tr>
 </table>
